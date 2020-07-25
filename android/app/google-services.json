@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "439910971028",
+    "firebase_url": "https://dashboy-8ee97.firebaseio.com",
+    "project_id": "dashboy-8ee97",
+    "storage_bucket": "dashboy-8ee97.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439910971028:android:0a01bad19eacf57e552681",
+        "android_client_info": {
+          "package_name": "com.dashboy.flutter_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "439910971028-4voh3n6llh9kg0bp57t28hvjlm7mucdj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0chFIG-MqPKar64C4arFpspTvVAU7qOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "439910971028-4voh3n6llh9kg0bp57t28hvjlm7mucdj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
